@@ -135,10 +135,6 @@ I publish on [Medium](https://ambuj4373.medium.com/) across the things I actuall
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambuj4373&hide_border=true&bg_color=FFFFFF&color=1A1D29&line=3D3DDC&point=2828B5&area=true&area_color=3D3DDC&title_color=1A1D29" alt="Contribution graph" width="92%"/>
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ambuj4373&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&title_color=3D3DDC&text_color=1A1D29" alt="Trophies"/>
-</p>
-
 ---
 
 <p align="left">
