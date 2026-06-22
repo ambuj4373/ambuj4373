@@ -20,6 +20,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://ambuj4373.medium.com/feed"
-          max_post_count: 5
-          template: "- [$title]($url)<br/>"
+          max_post_count: 4
+          template: "- [$title]($url)\n"
           commit_message: "Update latest Medium posts"
