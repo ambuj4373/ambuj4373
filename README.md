@@ -94,9 +94,14 @@ Years of machine learning, deep learning and statistical work: CNNs, fraud detec
 
 I publish on [Medium](https://ambuj4373.medium.com/) across the things I actually find interesting: financial crime and due diligence, geopolitics and technology policy, and practical data science in R. Some of it is technical, some of it is argument. All of it is me thinking out loud.
 
-Latest posts, kept up to date automatically:
+A few I am happy with:
 
-<!-- BLOG-POST-LIST:START -->- [When Activism Meets Geopolitics: The Risks of High-Profile Figures in Border Regions](https://ambuj4373.medium.com/when-activism-meets-geopolitics-the-risks-of-high-profile-figures-in-border-regions-ad6363aa4a45?source=rss-42afa3eb420b------2)<br/>- [From Brinkmanship to a Fragile Truce: How the May 2025 Ceasefire is Reshaping India’s Policy…](https://ambuj4373.medium.com/from-brinkmanship-to-a-fragile-truce-how-the-may-2025-ceasefire-is-reshaping-indias-policy-d2e39639fab0?source=rss-42afa3eb420b------2)<br/>- [Unlocking the Power of the {gt} Package in R: An Underrated Gem for Beautiful Tables](https://medium.com/r-evolution/unlocking-the-power-of-the-gt-package-in-r-an-underrated-gem-for-beautiful-tables-5b798355cf38?source=rss-42afa3eb420b------2)<br/>- [Tools and Techniques-Features in R](https://medium.com/r-evolution/tools-and-techniques-features-in-r-3614edc0e419?source=rss-42afa3eb420b------2)<br/>- [R Packages in 2024: Fresh Tools](https://medium.com/r-evolution/r-packages-in-2024-fresh-tools-f25939267eda?source=rss-42afa3eb420b------2)<br/><!-- BLOG-POST-LIST:END -->
+- [When Activism Meets Geopolitics: The Risks of High-Profile Figures in Border Regions](https://ambuj4373.medium.com/when-activism-meets-geopolitics-the-risks-of-high-profile-figures-in-border-regions-ad6363aa4a45)
+- [From Brinkmanship to a Fragile Truce: How the May 2025 Ceasefire is Reshaping India's Policy](https://ambuj4373.medium.com/from-brinkmanship-to-a-fragile-truce-how-the-may-2025-ceasefire-is-reshaping-indias-policy-d2e39639fab0)
+- [Unlocking the Power of the {gt} Package in R](https://medium.com/r-evolution/unlocking-the-power-of-the-gt-package-in-r-an-underrated-gem-for-beautiful-tables-5b798355cf38)
+- [R Packages in 2024: Fresh Tools](https://medium.com/r-evolution/r-packages-in-2024-fresh-tools-f25939267eda)
+
+[Read more on Medium](https://ambuj4373.medium.com/)
 
 ---
 
