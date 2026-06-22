@@ -39,9 +39,65 @@ The way I build now is to pair that domain knowledge with AI engineering. I arch
 
 ---
 
+## Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Probitas
+A compliance-grade due-diligence engine for UK companies and charities. Screens against sanctions, PEP and adverse-media registers and produces evidence-anchored reports. Live, takes payments, in use.
+
+`Python` &nbsp;`Next.js` &nbsp;`TypeScript` &nbsp;`Claude` &nbsp;`FastAPI`
+
+[Visit probitas-research.com](https://probitas-research.com)
+
+</td>
+<td width="50%" valign="top">
+
+### AML risk engines
+A private series of high-risk-onboarding and risk-assessment prototypes. Real-time web intelligence, evidence-led scoring, the groundwork that became Probitas.
+
+`Python` &nbsp;`LLM Pipelines` &nbsp;`Risk Modelling`
+
+<i>Private repositories</i>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### riga-rhythms
+A TypeScript web app built around the city I live in. One of several small product experiments I ship to keep my hands in.
+
+`TypeScript` &nbsp;`React`
+
+[View repository](https://github.com/ambuj4373/riga-rhythms)
+
+</td>
+<td width="50%" valign="top">
+
+### Data science in R
+Years of machine learning, deep learning and statistical work: CNNs, fraud detection, forecasting, and data visualisation with ggplot2.
+
+`R` &nbsp;`Keras` &nbsp;`ggplot2`
+
+[Browse the R repos](https://github.com/ambuj4373?tab=repositories&q=&type=&language=r)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## I also write
 
 I publish on [Medium](https://ambuj4373.medium.com/) across the things I actually find interesting: financial crime and due diligence, geopolitics and technology policy, and practical data science in R. Some of it is technical, some of it is argument. All of it is me thinking out loud.
+
+Latest posts, kept up to date automatically:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -133,6 +189,10 @@ I publish on [Medium](https://ambuj4373.medium.com/) across the things I actuall
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambuj4373&hide_border=true&bg_color=FFFFFF&color=1A1D29&line=3D3DDC&point=2828B5&area=true&area_color=3D3DDC&title_color=1A1D29" alt="Contribution graph" width="92%"/>
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ambuj4373/ambuj4373/output/snake.svg" alt="Contribution snake" width="92%"/>
 </p>
 
 ---
