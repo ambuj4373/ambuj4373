@@ -96,8 +96,7 @@ I publish on [Medium](https://ambuj4373.medium.com/) across the things I actuall
 
 Latest posts, kept up to date automatically:
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [When Activism Meets Geopolitics: The Risks of High-Profile Figures in Border Regions](https://ambuj4373.medium.com/when-activism-meets-geopolitics-the-risks-of-high-profile-figures-in-border-regions-ad6363aa4a45?source=rss-42afa3eb420b------2)<br/>- [From Brinkmanship to a Fragile Truce: How the May 2025 Ceasefire is Reshaping India’s Policy…](https://ambuj4373.medium.com/from-brinkmanship-to-a-fragile-truce-how-the-may-2025-ceasefire-is-reshaping-indias-policy-d2e39639fab0?source=rss-42afa3eb420b------2)<br/>- [Unlocking the Power of the {gt} Package in R: An Underrated Gem for Beautiful Tables](https://medium.com/r-evolution/unlocking-the-power-of-the-gt-package-in-r-an-underrated-gem-for-beautiful-tables-5b798355cf38?source=rss-42afa3eb420b------2)<br/>- [Tools and Techniques-Features in R](https://medium.com/r-evolution/tools-and-techniques-features-in-r-3614edc0e419?source=rss-42afa3eb420b------2)<br/>- [R Packages in 2024: Fresh Tools](https://medium.com/r-evolution/r-packages-in-2024-fresh-tools-f25939267eda?source=rss-42afa3eb420b------2)<br/><!-- BLOG-POST-LIST:END -->
 
 ---
 
