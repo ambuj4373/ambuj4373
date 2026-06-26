@@ -25,7 +25,7 @@ I am not a hands-on-keyboard engineer, and I have stopped pretending that is the
 
 Know who you are dealing with. Probitas screens any UK company or charity against global sanctions, PEP and adverse-media registers, then commissions a full, evidence-anchored due-diligence report. Every claim points back to a source. It pulls from Companies House, the Charity Commission, sanctions and PEP data and the open web, and turns the mess into something a compliance team can defend.
 
-I designed the logic, the risk model and the product, and I direct the build. It is live, it takes payments, and people use it.
+I designed the logic, the risk model and the product, and I direct the build. It is live, it takes payments, and people can use it, though it is still in testing phase and we need more feedbacks.
 
 Alongside it I have built a series of AML and onboarding-automation prototypes, all chasing the same idea: risk assessment that is faster, clearer, and led by evidence rather than gut feel. Before any of this I spent years as a data scientist, mostly in R and Python, which is still where a lot of my instincts come from.
 
