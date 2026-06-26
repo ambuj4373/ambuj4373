@@ -3,11 +3,11 @@
 <p align="left">
 I work in anti-money-laundering, and I build the tools I wish I had on the job.
 <br/>
-Day to day that means financial-crime risk, investigations, and writing the kind of report an MLRO can actually act on. On the side I am building a platform/brand called Probitas-Research, a due-diligence engine for UK companies and charities that I designed end to end and ship myself.
+Day to day that means financial-crime risk, investigations, and writing the kind of report an MLRO can actually act on. On the side I am building a platform/brand called Probitas-Research, a due-diligence engine for UK companies and charities that I designed end to end and I shipped/hosted all by myself.
 </p>
 
 <p align="left">
-I am not a hands-on-keyboard engineer, and I have stopped pretending that is the only way to build. What I bring is the domain, the product thinking, and the judgement to direct AI tools like Claude until the thing actually works the way a compliance team needs it to. The code is the easy part now. Knowing what good looks like is the hard part, and that is the part I own.
+I am not a hands-on-keyboard engineer, and I have stopped pretending that is the only way to build. What I bring is the domain, the product thinking, and the judgement to direct LLM/copilot until the thing actually works the way a compliance team needs it to. The code is the easy part now. Knowing what good looks like is the hard part, and that is the part I try to gifure out.
 </p>
 
 <p align="left">
